@@ -20,11 +20,11 @@ A fun, terminal-based **Virtual Pet / Tamagotchi-style** Python game featuring:
 
 ## 🚀 Installation
 
-```bash
+``
 git clone https://github.com/shoykot13/VirtualPet.git
 cd VirtualPet
 python Virtual Pet.py
-
+bash``
 How To Play
 
 Run the game and choose actions:
