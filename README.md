@@ -22,5 +22,5 @@ A fun, terminal-based **Virtual Pet / Tamagotchi-style** Python game featuring:
 
 ```bash
 git clone https://github.com/shoykot13/VirtualPet.git
-cd virtual-pet-ascii-evolution
-python main.py
+cd VirtualPet
+python Virtual Pet.py
